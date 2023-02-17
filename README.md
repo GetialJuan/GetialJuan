@@ -2,7 +2,7 @@
 
 
 
-I am Juan Getial from Colombia 🟡, I enjoy learning new technologies and programming lenguajes, I have experience in programming lenguajes such as JavaScript, Java, C++ and Python. I love gym. 
+I am Juan Getial from Colombia 🟡, I enjoy learning new technologies and programming lenguajes, I have experience in programming lenguajes such as JavaScript, Java, C++ and Python. 
 
 <hr color="white">
 
